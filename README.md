@@ -1,7 +1,7 @@
-Sentiment Analysis on Amazon Product Reviews
+##Sentiment Analysis on Amazon Product Reviews
 
  Project Overview
-This project performs Sentiment Analysis on Amazon product reviews using Natural Language Processing (NLP) and Machine Learning techniques. The system analyzes customer reviews and predicts whether the sentiment expressed in a review is positive or negative.
+This project performs **Sentiment Analysis on Amazon product reviews** using **Natural Language Processing (NLP)** and Machine Learning techniques. The system analyzes customer reviews and predicts whether the sentiment expressed in a review is positive or negative.
 
 The project demonstrates the complete machine learning workflow, including data preprocessing, feature extraction, model training, evaluation, and result visualization.
 
